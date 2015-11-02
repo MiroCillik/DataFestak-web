@@ -52,7 +52,7 @@ h3 {
 }
 
 #logos {
-	width: 345px;
+	width: 800px;
 	height: 40px;
 	margin-bottom: 80px;
 }
@@ -95,6 +95,15 @@ h3 {
 	width: 130px;
 	height: 56px;
 	margin-top: -12px;
+}
+
+#logos .fim {
+	text-indent: -9999px;
+	background: url("../img/fim_hradec_small.png") no-repeat right top;
+	width: 293px;
+	height: 166px;
+	margin-top: -55px;
+	margin-left: -45px;
 }
 
 #logos .ampersand {
